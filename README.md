@@ -1,6 +1,8 @@
 # test_github_action
 
-A new Flutter project.
+A Flutter project about how to use github action to build the apk file.
+
+> [https://medium.com/@colonal/automating-flutter-builds-and-releases-with-github-actions-77ccf4a1ccdd](https://medium.com/@colonal/automating-flutter-builds-and-releases-with-github-actions-77ccf4a1ccdd)
 
 ## Getting Started
 
