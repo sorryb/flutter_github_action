@@ -1,4 +1,4 @@
-# test_github_action
+# flutter_github_action
 
 A Flutter project about how to use github action to build the apk file.
 
