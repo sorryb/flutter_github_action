@@ -10,8 +10,8 @@ class HomeScreen extends StatelessWidget {
       body: Center(
         child: InkWell(
             onTap: () => NotificationService.showNotification(
-                  title: "This is the title of the notification",
-                  body: "This is the body of the notification",
+                  title: "This is the Title of the notification",
+                  body: "This is the Body of the notification",
                 ),
             child: const Text('Send Notification')),
       ),
