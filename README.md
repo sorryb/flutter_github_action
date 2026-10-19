@@ -21,4 +21,4 @@ samples, guidance on mobile development, and a full API reference.
 
 Go to Account 'Settings' then go to 'Developer Setting' and select 'Tokens (classic)' then tack 'Generate new token' then copy token and go to repostory and set to 'Secrets and variables' >> 'Actions' and set key 'TOKEN'
 
-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
+ghp_uKeyJ0LgZjigGpvlwXch8...here...token
